@@ -31,7 +31,8 @@
   &quot;keyToString&quot;: {
     &quot;.NET Project.OgrenciListe.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;&lt;unknown&gt;&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -71,6 +72,7 @@
       <workItem from="1745871330694" duration="7577000" />
       <workItem from="1745912189736" duration="2839000" />
       <workItem from="1745920067914" duration="1410000" />
+      <workItem from="1745921515087" duration="139000" />
     </task>
     <servers />
   </component>

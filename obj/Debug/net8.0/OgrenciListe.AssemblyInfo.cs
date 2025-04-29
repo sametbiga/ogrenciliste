@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OgrenciListe")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a5b72bb6b00b6d5ce1ebddb6f0f3b2cf3de11217")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b9c4501e3d32784527786f7f3ca512ddcf3056fd")]
 [assembly: System.Reflection.AssemblyProductAttribute("OgrenciListe")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OgrenciListe")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
