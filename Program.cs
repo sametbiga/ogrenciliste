@@ -1,6 +1,6 @@
 ﻿using System.Threading.Channels;
 using OgrenciListe;
-
+git --version
 Helper Operations = new Helper();
 
 bool yes = true;
