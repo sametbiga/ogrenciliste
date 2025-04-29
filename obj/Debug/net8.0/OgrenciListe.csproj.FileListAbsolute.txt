@@ -1,0 +1,14 @@
+C:\Users\BIGA\Desktop\github\OgrenciListe\bin\Debug\net8.0\OgrenciListe.exe
+C:\Users\BIGA\Desktop\github\OgrenciListe\bin\Debug\net8.0\OgrenciListe.deps.json
+C:\Users\BIGA\Desktop\github\OgrenciListe\bin\Debug\net8.0\OgrenciListe.runtimeconfig.json
+C:\Users\BIGA\Desktop\github\OgrenciListe\bin\Debug\net8.0\OgrenciListe.dll
+C:\Users\BIGA\Desktop\github\OgrenciListe\bin\Debug\net8.0\OgrenciListe.pdb
+C:\Users\BIGA\Desktop\github\OgrenciListe\obj\Debug\net8.0\OgrenciListe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BIGA\Desktop\github\OgrenciListe\obj\Debug\net8.0\OgrenciListe.AssemblyInfoInputs.cache
+C:\Users\BIGA\Desktop\github\OgrenciListe\obj\Debug\net8.0\OgrenciListe.AssemblyInfo.cs
+C:\Users\BIGA\Desktop\github\OgrenciListe\obj\Debug\net8.0\OgrenciListe.csproj.CoreCompileInputs.cache
+C:\Users\BIGA\Desktop\github\OgrenciListe\obj\Debug\net8.0\OgrenciListe.dll
+C:\Users\BIGA\Desktop\github\OgrenciListe\obj\Debug\net8.0\refint\OgrenciListe.dll
+C:\Users\BIGA\Desktop\github\OgrenciListe\obj\Debug\net8.0\OgrenciListe.pdb
+C:\Users\BIGA\Desktop\github\OgrenciListe\obj\Debug\net8.0\OgrenciListe.genruntimeconfig.cache
+C:\Users\BIGA\Desktop\github\OgrenciListe\obj\Debug\net8.0\ref\OgrenciListe.dll
